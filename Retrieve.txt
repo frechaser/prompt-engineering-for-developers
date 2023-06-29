@@ -1,0 +1,216 @@
+Effectiveness of different antithrombotic agents in combination with tranexamic acid for venous thromboembolism prophylaxis and blood management after total knee replacement: a prospective randomized study
+
+L. B. Zhou, C. C. Wang, L. T. Zhang, T. Wu and G. Q. Zhang
+
+BMC Musculoskelet Disord 2023 Vol. 24 Issue 1 Pages 5
+
+Accession Number: 36600227 PMCID: PMC9811690 DOI: 10.1186/s12891-022-06117-8
+
+
+BACKGROUND: Tranexamic acid (TXA) has been widely applied in total knee arthroplasty (TKA) to significantly reduce perioperative blood loss and improve knee function recovery in patients after surgery. The choice of antithrombotic agents for venous thromboembolism (VTE) prevention after TKA is controversial. Therefore, this study aimed to compare the effects of different antithrombotic agents on patients after primary unilateral TKA in the context of applied TXA. METHODS: A total of 180 patients undergoing primary unilateral TKA from October 2020 to December 2021 were included in this study. All patients were given an intraoperative drip of 60?mg/kg TXA. Thereafter, patients were divided into three groups (n?=?60 each). Baseline data were comparable among the three groups. The average follow-up time was 3.02?±?0.09?months. Group 1 enrolled patients receiving oral rivaroxaban (RA) at 10?mg, Group 2 included patients who received subcutaneous Dalteparin sodium at 2500?IU, while Group 3 included patients taking oral aspirin (ASA) at 100?mg. Patients in all the three groups received treatment once a day for 30?days at 12?h postoperatively. The primary outcomes in this study were post-treatment drainage volume and thrombotic complication rate. The secondary outcomes included hematologic parameters, transfusion rate, intraoperative blood loss, total blood loss (TBL), and bleeding complication rate. RESULTS: The average drainage volume after treatment was significantly lower in Group 3 than in Group 1 and Group 2 (205.2?±?69.0 vs 243.4?±?72.5 vs 295.4?±?72.5?ml, P?<?0.001), and there was a significant difference between Group 1 and Group 2 (243.4?±?72.5?mL vs 295.4?±?72.5?mL, P?<?0.001). The blood transfusion rate of Group 2 dramatically increased compared with Group 1 and Group 3 (20.0% vs 6.7% vs 5.0%, P?=?0.01). The bleeding complication rate in Group 1 apparently increased relative to Group 2 and Group 3 (26.7% vs 10.0% vs 8.3%, P?=?0.008). Besides, there was no significant difference in the thrombotic complication rate among the three groups. CONCLUSION: Under the background of TXA application, ASA, RA, and Dalteparin sodium were all effective on preventing VTE after TKA. In addition, ASA effectively reduced post-treatment Hemoglobin (Hb) loss, drainage volume, TBL, transfusion rate, and bleeding complications compared with RA and Dalteparin sodium. TRIAL REGISTRATION: The trial was registered at the Chinese Clinical Trial Registry (ChiCTR2200060169). Date of Registration: 21/05/2022.
+
+Oral direct thrombin inhibitors or oral factor Xa inhibitors?versus conventional anticoagulants for the treatment of pulmonary embolism
+
+M. Li, J. Li, X. Wang, X. Hui, Q. Wang, S. Xie, et al.
+
+Cochrane Database Syst Rev 2023 Vol. 4 Issue 4 Pages Cd010957
+
+Accession Number: 37057837 PMCID: PMC10103165 known.?
+SX: none known.?
+PY: none known.?
+JT: none known.?
+JFL: none known.?
+PX: none known.?
+KY: none known.
+LY: none known. DOI: 10.1002/14651858.CD010957.pub3
+
+
+BACKGROUND: Pulmonary embolism (PE) is a potentially life-threatening condition in which a clot can migrate from the deep veins, most commonly in the leg, to the lungs. Conventional treatment of PE used unfractionated heparin (UFH), low molecular weight heparin (LMWH), fondaparinux, and vitamin K antagonists (VKAs). Recently, two forms of direct oral anticoagulants (DOACs) have been developed: oral direct thrombin inhibitors (DTIs) and oral factor Xa inhibitors. DOACs have characteristics that may be favourable to conventional treatment, including oral administration, a predictable effect, no need for frequent monitoring or re-dosing, and few known drug interactions. This review reports the efficacy and safety of these drugs in the long-term treatment of PE (minimum duration of three months). This is an update of a Cochrane Review first published in 2015.? OBJECTIVES: To assess the efficacy and safety of oral DTIs and oral factor Xa inhibitors versus conventional anticoagulants for the long-term treatment of PE. SEARCH METHODS: The Cochrane Vascular Information Specialist searched the Cochrane Vascular Specialised Register, CENTRAL, MEDLINE, Embase and CINAHL databases, the World Health Organization International Clinical Trials Registry Platform and the ClinicalTrials.gov trials registers to 2 March 2022. We checked the reference lists of relevant articles for additional studies. SELECTION CRITERIA: We included randomised controlled trials (RCTs) in which people with a PE confirmed by standard imaging techniques were allocated to receive an oral DTI or an oral factor Xa inhibitor compared with a conventional anticoagulant or compared with each other for the long-term treatment of PE (minimum duration three months). DATA COLLECTION AND ANALYSIS: We used standard Cochrane methods. Our primary outcomes were recurrent PE, recurrent venous thromboembolism (VTE), and deep vein thrombosis (DVT). Secondary outcomes were all-cause mortality, major bleeding, and health-related quality of life. We used GRADE to assess the certainty of evidence for each outcome. MAIN RESULTS: We identified five additional RCTs with 1484 participants for this update. Together with the previously included trials, we have included ten RCTs with a total of 13,073 participants. Two studies investigated an oral DTI (dabigatran) and eight studies investigated oral factor Xa inhibitors (three rivaroxaban, three apixaban, and two edoxaban). The studies were of good methodological quality overall.? Meta-analysis showed no clear difference in the efficacy and safety of oral DTI compared with conventional anticoagulation in preventing recurrent PE (odds ratio (OR) 1.02, 95% confidence interval (CI) 0.50 to 2.04; 2 studies, 1602 participants; moderate-certainty evidence), recurrent VTE (OR 0.93, 95% CI 0.52 to 1.66; 2 studies, 1602 participants; moderate-certainty evidence), DVT (OR 0.79, 95% CI 0.29 to 2.13; 2 studies, 1602 participants; moderate-certainty evidence), and major bleeding (OR 0.50, 95% CI 0.15 to 1.68; 2 studies, 1527 participants; moderate-certainty evidence). We downgraded the certainty of evidence by one level for imprecision due to the low number of events. There was also no clear difference between the oral factor Xa inhibitors and conventional anticoagulation in the prevention of recurrent PE (OR 0.92, 95% CI 0.66 to 1.29; 3 studies, 8186 participants; moderate-certainty evidence), recurrent VTE (OR 0.83, 95% CI 0.66 to 1.03; 8 studies, 11,416 participants; moderate-certainty evidence), DVT (OR 0.77, 95% CI 0.48 to 1.25; 2 studies, 8151 participants; moderate-certainty evidence), all-cause mortality (OR 1.16, 95% CI 0.79 to 1.70; 1 study, 4817 participants; moderate-certainty evidence) and major bleeding (OR 0.71, 95% CI 0.36 to 1.41; 8 studies, 11,447 participants; low-certainty evidence); the heterogeneity for major bleeding was significant (I(2) = 79%). We downgraded the certainty of the evidence to moderate and low because of imprecision due to the low number of events and inconsistency due to clinical heterogeneity. None of the included studies measured health-related quality of life. AUTHORS' CONCLUSIONS: Available evidence shows there is probably little or no difference between DOACs and conventional anticoagulation in the prevention of recurrent PE, recurrent VTE, DVT, all-cause mortality, and major bleeding. The certainty of evidence was moderate or low. Future large clinical trials are required to identify if individual drugs differ in effectiveness and bleeding risk, and to explore effect differences in subgroups, including people with cancer and obesity.
+
+
+Comparison between rivaroxaban versus enoxaparin for venous thromboembolism prophylaxis following spine surgeries, a randomized clinical trial
+
+M. Shafiei, M. Sabouri, B. Aminmansour, M. Rezvani, M. Mahmoodkhani, P. Rahmani, et al.
+
+J Clin Neurosci 2022 Vol. 105 Pages 51-57
+
+Accession Number: 36084566 DOI: 10.1016/j.jocn.2022.08.023
+
+
+BACKGROUND: Enoxaparin is currently used for VTE prophylaxis. Rivaroxaban is more cost-effective and is as potent as enoxaparin in VTE prophylaxis. METHODS: The study was held at Al-Zahra and Kashani university hospitals in Isfahan, Iran, from January 2019 to October 2020. Two hundred ninety-six patients requiring instrumented spine surgery were enrolled; 23 were excluded (lack of consent/interfering medical situations). They were randomized into the groups of rivaroxaban (case, n?=?137) and enoxaparin receiving (control, n?=?136). Medical data were recorded and 244 patients (case?=?123, control?=?121) were analyzed value?<?0.05 was meaningful. RESULTS: 150 patients were males, and 94 were females. The mean age was 52.09?±?12.6?years. Postoperative drain volume was higher in rivaroxaban received patients than in enoxaparin (p?=?0.02). Post-operation epidural hematoma was detected in 3 patients in the case and 1 in the control group, which was not meaningful(p?=?0.622). All of them were evacuated surgically. POH was associated with cervical canal stenosis surgery, existing comorbidities, and new medical events. New medical events were associated with postoperative wound dehiscence (p?=?0.001). Short and long-term postoperative outcomes were similar in both groups. The mean follow-up duration was 25.8?±?7.5?months. CONCLUSION: Rivaroxaban is as effective as enoxaparin in venous thromboembolic event prophylaxis. Regarding postoperative epidural hematoma, statistical analysis showed equal safety of both drugs. Still, the authors would like to recommend more discretion in rivaroxaban administration in cervical spine laminectomy until future studies are conducted.
+
+
+Rivaroxaban vs?Dalteparin in Cancer-Associated Thromboembolism: A Randomized Trial
+
+B. Planquette, L. Bertoletti, A. Charles-Nelson, S. Laporte, C. Grange, I. Mahé, et al.
+
+Chest 2022 Vol. 161 Issue 3 Pages 781-790
+
+Accession Number: 34627853 DOI: 10.1016/j.chest.2021.09.037
+
+
+BACKGROUND: Direct oral anticoagulants (DOACs) are an alternative to low-molecular-weight heparin for treating cancer-associated VTE. RESEARCH QUESTION: Is rivaroxaban as efficient and safe as dalteparin to treat patients with cancer-associated VTE? STUDY DESIGN AND METHODS: In a randomized open-label noninferiority trial, patients with active cancer who had proximal DVT, pulmonary embolism (PE), or both were assigned randomly to therapeutic doses of rivaroxaban or dalteparin for 3?months. The primary outcome was the cumulative incidence of recurrent VTE, a composite of symptomatic or incidental DVT or PE, and worsening of pulmonary vascular or venous obstruction at 3?months. RESULTS: Of 158 randomized patients, 74 and 84 patients were assigned to receive rivaroxaban and dalteparin, respectively. Mean age was 69.4 years, and 115 patients (76.2%) had metastatic disease. The primary outcome occurred in 4 and 6 patients in the rivaroxaban and dalteparin groups, respectively (both the intention-to-treat and per-protocol populations: cumulative incidence, 6.4%?vs?10.1%; subdistribution hazard ratio [SHR], 0.75; 95%?CI, 0.21-2.66). Major bleeding occurred in 1 and 3 patients in the rivaroxaban and dalteparin groups, respectively (cumulative incidence, 1.4%?vs?3.7%; SHR, 0.36; 95%?CI, 0.04-3.43). Major or clinically relevant nonmajor bleeding occurred in 9 and 8 patients in the rivaroxaban and dalteparin groups, respectively (cumulative incidence, 12.2%?vs?9.8%; SHR, 1.27; 95%?CI, 0.49-3.26). Overall, 19 patients (25.7%) and 20 patients (23.8%) died in the rivaroxaban and dalteparin groups, respectively (hazard ratio, 1.05; 95%?CI, 0.56-1.97). INTERPRETATION: In this trial comparing rivaroxaban and dalteparin in the treatment of cancer-associated VTE, the number of patients was insufficient to reach the predefined criteria for noninferiority, but efficacy and safety results were consistent with those previously reported with DOACs. An updated meta-analysis of randomized trials comparing DOACs with low-molecular-weight heparin in patients with cancer-associated VTE is provided. TRIAL REGISTRY: ClinicalTrials.gov; No.: NCT02746185; URL: www. CLINICALTRIALS: gov.
+
+
+Rivaroxaban Versus Enoxaparin for Thromboprophylaxis After major Gynecological Cancer Surgery: The VALERIA Trial : Venous thromboembolism prophylAxis after gynecoLogical pElvic cancer surgery with RIvaroxaban versus enoxAparin (VALERIA trial)
+
+A. L. M. Longo de Oliveira, R. F. de Oliveira Pereira, L. B. Agati, C. M. Ribeiro, G. Y. Kawamura Suguiura, C. H. Cioni, et al.
+
+Clin Appl Thromb Hemost 2022 Vol. 28 Pages 10760296221132556
+
+Accession Number: 36474344 PMCID: PMC9732794 DOI: 10.1177/10760296221132556
+
+
+Direct oral anticoagulants (DOACs) for venous thromboembolism (VTE) prevention after major gynecological cancer surgery might be an alternative to parenteral low-molecular-weight heparin (LMWH). Patients undergoing major gynecological cancer surgery were randomized at hospital discharge to receive rivaroxaban 10 mg once daily or enoxaparin 40 mg once daily for 30 days. The primary efficacy outcome was a combination of symptomatic VTE and VTE-related death or asymptomatic VTE at day 30. The primary safety outcome was the incidence of major or clinically relevant nonmajor bleeding. Two hundred and twenty-eight patients were enrolled and randomly assigned to receive rivaroxaban (n??=??114)or enoxaparin (n??=??114). The trial was stopped due to a lower-than-expected event rate. The primary efficacy outcome occurred in 3.51% of patients assigned to rivaroxaban and in 4.39% of patients assigned to enoxaparin (relative risk 0.80, 95% CI 0.22 to 2.90; p??=??0.7344). Patients assigned to rivaroxaban had no primary bleeding event, and 3 patients (2.63%) in the enoxaparin group had a major or CRNM bleeding event (hazard ratio, 0.14; 95% CI, 0.007 to 2.73; P??=??0.1963). In patients undergoing major gynecological cancer surgery, thromboprophylaxis with rivaroxaban 10 mg daily for 30 days had similar rates of thrombotic and bleeding events compared to parenteral enoxaparin 40 mg daily. While the power is limited due to not reaching the intended sample size, our results support the hypothesis that DOACs might be an attractive alternative strategy to LMWH to prevent VTE in this high-risk population.
+
+
+A Prospective Randomized Controlled Trial Comparing Enoxaparin & Rivaroxaban for Venous Thromboembolism Prophylaxis in Orthopaedic Trauma
+
+M. P. John, 2nd, B. D. Streufert, K. Downes, C. B. Chase and H. R. Mir
+
+J Orthop Trauma 2022 Vol. 36 Issue 12 Pages 615-622
+
+Accession Number: 36399673 DOI: 10.1097/bot.0000000000002454
+
+
+OBJECTIVES: To determine whether there is a difference in orthopaedic trauma patient medication satisfaction and adherence using an oral versus subcutaneous injectable anticoagulant for venous thromboembolism chemoprophylaxis. DESIGN: Randomized controlled trial. SETTING: Single academic Level 1 trauma center. PARTICIPANTS: One hundred twenty adult orthopaedic trauma patients with operative pelvic or lower extremity fractures were randomized and completed the study. INTERVENTION: Three weeks of either the service standard 40 mg once daily enoxaparin versus trial medication 10 mg once daily rivaroxaban postoperatively. MAIN OUTCOME MEASURES: Patient satisfaction as measured by the Treatment Satisfaction Questionnaire for Medication (TSQM-9). Medication adherence as measured by the Morisky Medication Adherence Scale (MMAS-8). RESULTS: Medication adherence was similar in both groups. Medication satisfaction was significantly higher in the oral rivaroxaban group based on the TSQM-9 and patient-reported data. Secondary outcomes found no significant difference in the incidence of bleeding events or clinically relevant venous thromboembolism. The enoxaparin group experienced more adverse medication-related events. The rivaroxaban medication regimen costs 7.5-10× less out of pocket for uninsured patients. CONCLUSION: The results of this randomized controlled trial demonstrate that patients with surgical orthopaedic trauma prefer an oral anticoagulant for postoperative venous thromboembolism chemoprophylaxis and suggest that rivaroxaban may be a viable option. Furthermore, large-scale studies are needed to confirm safety and efficacy for rivaroxaban in this population as a potential alternative to enoxaparin and aspirin. LEVEL OF EVIDENCE: Therapeutic Level II. See Instructions for Authors for a complete description of levels of evidence.
+
+
+利伐沙班与低分子肝素预防脊柱骨折手术后下肢深静脉血栓的效果及不良反应比较
+
+杨鹏, 强晓军, 苏海涛, 王庆忠 and 魏亚营
+
+中国药物滥用防治杂志 2021 Vol. 27 Issue 04 Pages 528-531
+
+DOI: 10.15900/j.cnki.zylf1995.2021.04.024
+
+
+目的:比较利伐沙班与低分子肝素预防脊柱骨折术后下肢深静脉血栓(deep vein thrombosis,DVT)的效果及不良反应。方法:选取2018年12月—2020年12月在本院行脊柱骨折手术且存在DVT形成高危因素80例患者为研究对象,随机将其分为研究组(n=40)和对照组(n=40)。研究组予以利伐沙班治疗,对照组予以低分子肝素治疗。对比两组治疗前后凝血功能指标,包括血浆凝血酶原时间(PT),纤维蛋白原(FIB)、D-二聚体(D-D)、DVT发生率及不良反应发生率。结果:术前两组凝血功能指标对比,差异无统计学意义(P>0.05),术后14 d、30 d,两组D-D水平均低于术前,且研究组低于对照组,差异有统计学意义(P<0.05);研究组DVT的发生率为2.50%、对照组DVT的发生率为7.50%,组间差异不明显(χ2=0.263,P=0.608),研究组不良反应发生率为7.50%、对照组不良反应发生率为10.00%,组间差异不明显(χ2=0.000,P=1.000)。结论:利伐沙班较低分子肝素可有效改善脊柱骨折手术患者术后凝血功能,疗效确切,且不会增加不良反应的发生风险。
+
+
+
+利伐沙班与传统抗凝治疗肺栓塞非高危组的临床有效性研究
+
+徐畅
+
+中国社区医师 2021 Vol. 37 Issue 30 Pages 38-39
+
+
+
+
+目的:分析利伐沙班与传统抗凝治疗肺栓塞非高危组的临床有效性。方法:2019年4月-2020年4月收治非大面积急性肺栓塞循环稳定患者92例,依照使用抗凝药物不同分为两组。观察组采用低分子肝素+利伐沙班治疗;对照组采用低分子肝素+华法林治疗。比较两组治疗效果。结果:两组治疗总有效率比较,差异无统计学意义(P>0.05)。观察组不良反应发生率明显低于对照组,差异有统计学意义(P<0.05)。两组治疗后心率、呼吸频率及D-二聚体水平均低于治疗前,PaCO2、PaO2水平均高于治疗前,差异有统计学意义(P<0.05);两组治疗后各项指标水平比较,差异无统计学意义(P>0.05)。结论:针对急性非大面积肺栓塞患者的治疗,以低分子肝素为基准,应用利伐沙班治疗的效果满意,不良反应发生率低。
+
+
+
+低分子肝素与利伐沙班对妇科肿瘤术后深静脉血栓预防的作用
+
+唐莉鸿
+
+系统医学 2021 Vol. 6 Issue 15 Pages 101-103
+
+DOI: 10.19368/j.cnki.2096-1782.2021.15.101
+
+https://d-wanfangdata-com-cn-443.webvpn.cams.cn/periodical/ChlQZXJpb2RpY2FsQ0hJTmV3UzIwMjMwNDI2Eg14dHl4MjAyMTE1MDMyGghvemxzdjJzOQ%3D%3D
+
+目的 研究妇科肿瘤应用低分子肝素与利伐沙班预防术后深静脉血栓的价值.方法 选取2018年11月—2019年10月该院收治的106例妇科肿瘤腹腔镜术治疗患者,依据深静脉血栓预防方案不同分组.应用低分子肝素的纳入对照组,应用利伐沙班的纳入研究组,对比应用两组疗效.结果 研究组并发症率为7.55％,与对照组对比差异无统计学意义(χ2=0.912,P>0.05);治疗后,研究组下肢周径为(16.71±1.12)cm,血流速度为(1.93±0.13)m/s,与对照组比较,差异无统计学意义(t=1.826、0.855,P>0.05);研究组血小板为(231.54±35.19)×109/L,D-二聚体为(371.61±15.54)μg/L,凝血酶原时间为(10.53±2.44)s,与对照组指标对比,差异无统计学意义(t=0.386、1.004、0.167,P>0.05).结论 妇科肿瘤应用低分子肝素与利伐沙班预防术后深静脉血栓,均取得了良好收效,且两者预防效果相当.
+
+
+低分子肝素钙与利伐沙班治疗急性肺栓塞的临床效果及对D-二聚体水平的影响
+
+刘会金 and 时会敏
+
+山东第一医科大学(山东省医学科学院)学报 2021 Vol. 42 Issue 11 Pages 833-836
+
+
+
+
+目的 分析低分子肝素钙与利伐沙班联合治疗急性肺栓塞的临床效果，以及对D-二聚体水平的影响。方法 研究对象选择河南科技大学第一附属医院2018年1月—2020年2月收治的急性肺栓塞患者88例，根据随机数字表法分为对照组与观察组，各44例，对照组给予低分子肝素钙与华法林联合治疗，观察组给予低分子肝素钙与利伐沙班联合治疗，对比分析两组的治疗总有效率、凝血功能指标、炎性因子水平。结果 治疗6个月后，观察组的总有效率为97.73%(43/44)，高于对照组84.09%(37/44)，差异有统计学意义（P <0.05）；观察组的凝血酶原时间、血清纤维素水平均高于对照组，血清D-二聚体水平则低于对照组，差异均有统计学意义（P <0.05）；观察组的血清C反应蛋白、肿瘤坏死因子α、白介素-10水平均低于对照组，差异有统计学意义（P <0.05）。结论 低分子肝素钙与利伐沙班联合治疗急性肺栓塞患者疗效显著，不仅可以加速机体凝血功能的恢复，还可以减轻炎症反应。
+
+
+
+利伐沙班、低分子肝素对急性肺栓塞的疗效分析
+
+刘红梅 and 杨海升
+
+中国继续医学教育 2021 Vol. 13 Issue 28 Pages 162-166
+
+
+
+
+目的探讨对于急性肺栓塞患者通过合用利伐沙班与低分子肝素进行治疗的临床价值。方法抽取2018年10月—2020年4月74例急性肺栓塞患者,并依据用药方案分组,对照组患者以低分子肝素钙+华法林进行治疗,同期观察组患者以低分子肝素钙+利伐沙班进行治疗,对比2组临床疗效、肺功能指标与凝血功能指标改善情况。结果观察组治疗总有效率为97.30%,对照组为78.38%,差异具有统计学意义P <0.05;2组患者治疗前PT、D-D、APTT对比中P> 0.05,差异不具有统计学意义;治疗后观察组的PT、APTT高于对照组,D-D低于对照组,差异具有统计学意义P <0.05;2组患者治疗前FEV1、FEV1%pred、FVC%pred对比中P>0.05,经治疗观察组的FEV1、FEV1%pred、FVC%pred均高于对照组,差异具有统计学意义P <0.05;治疗前2组患者的PaO_2、PaCO_2比较中P> 0.05,差异不具有统计学意义,治疗后观察组患者的Pa O2高于对照组,PaCO_2低于对照组,且2组患者治疗后的PaO_2、PaCO_2比较中P <0.05差异具有统计学意义;观察组患者的药物不良反应率为8.11%,对照组为10.81%,P> 0.05,差异不具有统计学意义。结论对于急性肺栓塞患者合用利伐沙班与低分子肝素治疗可取得满意疗效,且有助于改善凝血与肺通气功能。
+
+
+
+Primary prophylaxis for venous thromboembolism in ambulatory cancer patients receiving chemotherapy
+
+A. W. Rutjes, E. Porreca, M. Candeloro, E. Valeriani and M. Di Nisio
+
+Cochrane Database Syst Rev 2020 Vol. 12 Issue 12 Pages Cd008500
+
+Accession Number: 33337539 PMCID: PMC8829903 consultancy fees from Bayer, Daiichi Sankyo, LEO Pharma, BMS‐Pfizer and Aspen, outside of the submitted work. When the previous version of this review was published(Di Nisio 2016), the authors declared the below conflicts of interest. From 29 October 2020, the above conflicts of interest were declared. These conflicts applied during the period that the review update was in preparation. MDN: I have received consultancy fees from Bayer, Grifols, and Daiichi Sankyo not related to the present review.
+EP: none known
+MC: none known
+MDT: none known
+IR: none known
+AWSR: none known DOI: 10.1002/14651858.CD008500.pub5
+
+
+BACKGROUND: Venous thromboembolism (VTE) often complicates the clinical course of cancer. The risk is further increased by chemotherapy, but the trade-off between safety and efficacy of primary thromboprophylaxis in cancer patients treated with chemotherapy is uncertain. This is the third update of a review first published in February 2012. OBJECTIVES: To assess the efficacy and safety of primary thromboprophylaxis for VTE in ambulatory cancer patients receiving chemotherapy compared with placebo or no thromboprophylaxis, or an active control intervention. SEARCH METHODS: For this update, the Cochrane Vascular Information Specialist searched the Cochrane Vascular, CENTRAL, MEDLINE, Embase and CINAHL databases and World Health Organization International Clinical Trials Registry Platform and ClinicalTrials.gov trials registers to 3 August 2020. We also searched the reference lists of identified studies and contacted content experts and trialists for relevant references. SELECTION CRITERIA: Randomised controlled trials comparing any oral or parenteral anticoagulant or mechanical intervention to no thromboprophylaxis or placebo, or comparing two different anticoagulants. DATA COLLECTION AND ANALYSIS: We extracted data on risk of bias, participant characteristics, interventions, and outcomes including symptomatic VTE and major bleeding as the primary effectiveness and safety outcomes, respectively. We applied GRADE to assess the certainty of evidence. MAIN RESULTS: We identified six additional randomised controlled trials (3326 participants) for this update, bringing the included study total to 32 (15,678 participants), all evaluating pharmacological interventions and performed mainly in people with locally advanced or metastatic cancer. The certainty of the evidence ranged from high to very low across the different outcomes and comparisons. The main limiting factors were imprecision and risk of bias. Thromboprophylaxis with direct oral anticoagulants (direct factor Xa inhibitors apixaban and rivaroxaban) may decrease the incidence of symptomatic VTE (risk ratio (RR) 0.43, 95% confidence interval (CI) 0.18 to 1.06; 3 studies, 1526 participants; low-certainty evidence); and probably increases the risk of major bleeding compared with placebo (RR 1.74, 95% CI 0.82 to 3.68; 3 studies, 1494 participants; moderate-certainty evidence). When compared with no thromboprophylaxis, low-molecular-weight heparin (LMWH) reduced the incidence of symptomatic VTE (RR 0.62, 95% CI 0.46 to 0.83; 11 studies, 3931 participants; high-certainty evidence); and probably increased the risk of major bleeding events (RR 1.63, 95% CI 1.12 to 2.35; 15 studies, 7282 participants; moderate-certainty evidence). In participants with multiple myeloma, LMWH resulted in lower symptomatic VTE compared with the vitamin K antagonist warfarin (RR 0.33, 95% CI 0.14 to 0.83; 1 study, 439 participants; high-certainty evidence), while LMWH probably lowers symptomatic VTE more than aspirin (RR 0.51, 95% CI 0.22 to 1.17; 2 studies, 781 participants; moderate-certainty evidence). Major bleeding was observed in none of the participants with multiple myeloma treated with LMWH or warfarin and in less than 1% of those treated with aspirin. Only one study evaluated unfractionated heparin against no thromboprophylaxis, but did not report on VTE or major bleeding. When compared with placebo or no thromboprophylaxis, warfarin may importantly reduce symptomatic VTE (RR 0.15, 95% CI 0.02 to 1.20; 1 study, 311 participants; low-certainty evidence) and may result in a large increase in major bleeding (RR 3.82, 95% CI 0.97 to 15.04; 4 studies, 994 participants; low-certainty evidence). One study evaluated antithrombin versus no antithrombin in children. This study did not report on symptomatic VTE but did report any VTE (symptomatic and incidental VTE). The effect of antithrombin on any VTE and major bleeding is uncertain (any VTE: RR 0.84, 95% CI 0.41 to 1.73; major bleeding: RR 0.78, 95% CI 0.03 to 18.57; 1 study, 85 participants; very low-certainty evidence). AUTHORS' CONCLUSIONS: In ambulatory cancer patients, primary thromboprophylaxis with direct factor Xa inhibitors may reduce the incidence of symptomatic VTE (low-certainty evidence) and probably increases the risk of major bleeding (moderate-certainty evidence) when compared with placebo. LMWH decreases the incidence of symptomatic VTE (high-certainty evidence), but increases the risk of major bleeding (moderate-certainty evidence) when compared with placebo or no thromboprophylaxis. Evidence for the use of thromboprophylaxis with anticoagulants other than direct factor Xa inhibitors and LMWH is limited. More studies are warranted to evaluate the efficacy and safety of primary prophylaxis in specific types of chemotherapeutic agents and types of cancer, such as gastrointestinal or genitourinary cancer.
+
+
+利伐沙班与低分子肝素钙序贯华法林治疗老年性肺栓塞的疗效对比
+
+张宏, 庄丽 and 吴军辉
+
+世界最新医学信息文摘（连续型电子期刊） 2020 Vol. 20 Issue 42 Pages 93-94
+
+DOI: 10.3969/j.issn.1671-3141.2020.42.055
+
+https://d-wanfangdata-com-cn-443.webvpn.cams.cn/periodical/ChlQZXJpb2RpY2FsQ0hJTmV3UzIwMjMwNDI2EhFzanp4eXktZTIwMjA0MjA1NRoIb3psc3Yyczk%3D
+
+目的 探讨利伐沙班在老年性肺栓塞患者临床治疗中的疗效.方法 从我院2017年10月至2019年10月住院治疗的老年性肺栓塞患者中选择24例作为研究病例,按照收住院的奇偶顺序划分为对照组和观察组,对照组选用传统的低分子肝素钙序贯华法林方案进行治疗,观察组选用单纯口服利伐沙班方案进行治疗,比较两组患者临床疗效,治疗后PaO2、D-D、CRP水平.结果 观察组患者经过治疗后临床疗效好,治疗后PaO2、D-D、CRP水平均优于对照组,各项指标对比均有统计学意义(P<0.05).结论 利伐沙班在老年性肺栓塞患者的临床治疗中有着更好的疗效,值得进行进一步的宣传和应用.
+
+
+
+
+
+利伐沙班与低分子肝素治疗老年人恶性肿瘤并发静脉血栓栓塞症的效果比较
+
+刘群峰
+
+中国基层医药 2020 Vol. 27 Issue 14 Pages 1675-1678
+
+DOI: 10.3760/cma.j.issn.1008-6706.2020.14.003
+
+https://d-wanfangdata-com-cn-443.webvpn.cams.cn/periodical/ChlQZXJpb2RpY2FsQ0hJTmV3UzIwMjMwNDI2Eg96Z2pjeXkyMDIwMTQwMjcaCG96bHN2MnM5
+
+目的:比较利伐沙班与低分子肝素治疗老年人恶性肿瘤并发静脉血栓栓塞症(VTE)的临床效果。方法:选取枝江市人民医院2016年1月至2019年3月收治的老年恶性肿瘤并发VTE患者88例，采用随机数字表法分为观察组、对照组各44例，对照组采用低分子肝素治疗，观察组采用利伐沙班治疗，两组均连续治疗3个月。比较两组治疗效果、治疗前后凝血功能变化及不良事件发生情况。结果:观察组疾病控制率88.64%(39/44)，高于对照组的84.09%(37/44)，但差异无统计学意义( P>0.05)。治疗后，观察组纤维蛋白原、D-二聚体、凝血酶原时间、活化部分凝血活酶时间分别为(3.22±0.53)g/L、(1.62±0.53)mg/L、(16.35±3.21)s、(39.22±9.03)s，对照组分别为(3.43±0.59)g/L、(1.73±0.56)mg/L、(15.73±3.24)s、(39.01±9.04)s，两组均较治疗前改善(观察组： t＝18.141、7.243、11.432、4.154，对照组： t＝15.191、5.925、10.357、4.034，均 P<0.05)，但两组差异均无统计学意义(均 P>0.05)。观察组不良事件发生率为9.09%(4/44)，低于对照组的25.00%(11/44)，两组差异有统计学意义(χ 2＝3.938， P<0.05)。 结论:利伐沙班与低分子肝素治疗老年人恶性肿瘤并发VTE疗效相当，均能改善患者凝血功能，但利伐沙班治疗期间出血及复发的不良事件发生率较低，安全性更高。
+
+
+
+Treatment for superficial thrombophlebitis of the leg
+
+M. Di Nisio, I. M. Wichers and S. Middeldorp
+
+Cochrane Database Syst Rev 2018 Vol. 2 Issue 2 Pages Cd004982
+
+Accession Number: 29478266 PMCID: PMC6953389 Pfizer, and receiving consultancy fees from Daiichi‐Sankyo and Bayer Health Care.
+ IW: none known.
+ SM: Dr Middeldorp was a member of the Steering Committee of the CALISTO study, which was funded by GlaxoSmithKline (GSK) and which investigated the efficacy and safety of fondaparinux for superficial thrombophlebitis; funds were paid to Dr Middeldorp's institution. Dr Middeldorp's institution had also received funding from several pharmaceutical companies, including GSK, BMS, Bayer, Boehringer Ingelheim, Sanofi, and Pfizer to support some of her other educational and research activities. The first version of this review was written before the CALISTO study was designed. DOI: 10.1002/14651858.CD004982.pub6
+
+
+BACKGROUND: The optimal treatment of superficial thrombophlebitis (ST) of the legs remains poorly defined. While improving or relieving the local painful symptoms, treatment should aim at preventing venous thromboembolism (VTE), which might complicate the natural history of ST. This is the third update of a review first published in 2007. OBJECTIVES: To assess the efficacy and safety of topical, medical, and surgical treatments for ST of the leg in improving local symptoms and decreasing thromboembolic complications. SEARCH METHODS: For this update, the Cochrane Vascular Information Specialist searched the Cochrane Vascular Specialised Register (March 2017), CENTRAL (2017, Issue 2), and trials registries (March 2017). We handsearched the reference lists of relevant papers and conference proceedings. SELECTION CRITERIA: Randomised controlled trials (RCTs) evaluating topical, medical, and surgical treatments for ST of the legs that included people with a clinical diagnosis of ST of the legs or objective diagnosis of a thrombus in a superficial vein. DATA COLLECTION AND ANALYSIS: Two authors assessed the trials for inclusion in the review, extracted the data, and assessed the quality of the studies. Data were independently extracted from the included studies and any disagreements resolved by consensus. We assessed the quality of the evidence using the GRADE approach. MAIN RESULTS: We identified three additional trials (613 participants), therefore this update considered 33 studies involving 7296 people with ST of the legs. Treatment included fondaparinux; rivaroxaban; low molecular weight heparin (LMWH); unfractionated heparin (UFH); non-steroidal anti-inflammatory drugs (NSAIDs); compression stockings; and topical, intramuscular, or intravenous treatment to surgical interventions such as thrombectomy or ligation. Only a minority of trials compared treatment with placebo rather than an alternative treatment and many studies were small and of poor quality. Pooling of the data was possible for few outcomes, and none were part of a placebo-controlled trial. In one large, placebo-controlled RCT of 3002 participants, subcutaneous fondaparinux was associated with a significant reduction in symptomatic VTE (risk ratio (RR) 0.15, 95% confidence interval (CI) 0.04 to 0.50; moderate-quality evidence), ST extension (RR 0.08, 95% CI 0.03 to 0.22; moderate-quality evidence), and ST recurrence (RR 0.21, 95% CI 0.08 to 0.54; moderate-quality evidence) relative to placebo. Major bleeding was infrequent in both groups with very wide CIs around risk estimate (RR 0.99, 95% CI 0.06 to 15.86; moderate-quality evidence). In one RCT on 472 high-risk participants with ST, fondaparinux was associated with a non-significant reduction of symptomatic VTE compared to rivaroxaban 10 mg (RR 0.33, 95% CI 0.03 to 3.18; low-quality evidence). There were no major bleeding events in either group (low-quality evidence). In another placebo-controlled trial, both prophylactic and therapeutic doses of LMWH (prophylactic: RR 0.44, 95% CI 0.26 to 0.74; therapeutic: RR 0.46, 95% CI 0.27 to 0.77) and NSAIDs (RR 0.46, 95% CI 0.27 to 0.78) reduced the extension (low-quality evidence) and recurrence of ST (low-quality evidence) in comparison to placebo, with no significant effects on symptomatic VTE (low-quality evidence) or major bleeding (low-quality evidence). Overall, topical treatments improved local symptoms compared with placebo, but no data were provided on the effects on VTE and ST extension. Surgical treatment combined with elastic stockings was associated with a lower VTE rate and ST progression compared with elastic stockings alone. However, the majority of studies that compared different oral treatments, topical treatments, or surgery did not report VTE, ST progression, adverse events, or treatment adverse effects. AUTHORS' CONCLUSIONS: Prophylactic dose fondaparinux given for 45 days appears to be a valid therapeutic option for ST of the legs for most people. The evidence on topical treatment or surgery is too limited and does not inform clinical practice about the effects of these treatments in terms of VTE. Further research is needed to assess the role of rivaroxaban and other direct oral factor-X or thrombin inhibitors, LMWH, and NSAIDs; the optimal doses and duration of treatment in people at various risk of recurrence; and whether a combination therapy may be more effective than single treatment. Adequately designed and conducted studies are required to clarify the role of topical and surgical treatments.
+
+
+
+The Efficacy and Safety of Rivaroxaban and Dalteparin in the Treatment of Cancer Associated Venous Thrombosis
+
+A. Chaudhury, A. Balakrishnan, C. Thai, B. Holmstrom, S. Nanjappa, Z. Ma, et al.
+
+Indian J Hematol Blood Transfus 2018 Vol. 34 Issue 3 Pages 530-534
+
+Accession Number: 30127566 PMCID: PMC6081306 DOI: 10.1007/s12288-017-0895-8
+
+
+Venous thromboembolism (VTE) is a complication of malignancy that is associated with significant mortality. The CLOT trial showed superiority of dalteparin in comparison to warfarin in preventing VTE recurrence. Rivaroxaban has been approved for treatment of deep venous thrombosis (DVT) and pulmonary embolism (PE). In the absence of large randomized trials in the oncology population, the efficacy and safety of rivaroxaban for the treatment of VTE in cancer patients needs to be assessed. A single-center retrospective chart review was conducted to assess the efficacy and safety of rivaroxaban compared with dalteparin in cancer-associated thrombosis. Out of 671 patients identified, 286 patients (107 in the rivaroxaban group and 179 in the dalteparin group) were eligible for analysis. The rivaroxaban group had a rate of VTE recurrence at 6?months of 4.9 versus 11.1% with dalteparin (p?=?0.252). The incidence of recurrent DVT at 6?months was lower in patients treated with rivaroxaban (0%) compared with dalteparin (8.2%) at 6?months (p?=?0.025). Incidence of recurrent PE in the rivaroxaban group (5%) versus dalteparin group (3.1%) at 6?months was not statistically significant (p?=?0.675). No significant difference was identified between the rivaroxaban group and dalteparin group in the rate of major bleeding (2.8 vs. 1.1%, respectively). Rivaroxaban was comparable to dalteparin in prevention of VTE recurrence while having no significant differences with major or minor bleeding.
+
